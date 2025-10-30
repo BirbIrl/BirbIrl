@@ -1,16 +1,15 @@
-## Hi there 👋
+## Yo.
+I'm **BirbIrl**. I used to yell at videogames - now i make videogames you can yell at.
 
-<!--
-**BirbIrl/BirbIrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things i did that are of noteworthy:
+- [The Perfect Sequence](https://birbirl.itch.io/the-perfect-sequence) - My submission for the 96h 2025 GMTK Game Jam. Stop reading this and just click the link and play it in the browser for a bit. There's a special surprise if you beat it. Might take an hour tho :)
+- [Create's ComputerCraft Integration](https://github.com/Creators-of-Create/Create/pull/7883) - I took the initative and collabed with other players on improving the CC integration for Create, [wrote serial tests](https://github.com/BirbIrl/Create-CC-Integration-Tests) for it and [quadruples the amount of documentation](https://github.com/Creators-of-Create/wiki/pull/4).
+- [VoidSweeper](https://github.com/BirbIrl/VoidSweeper) - A small prototype to see how minesweeper plays on a procedural, forever growing (and decaying) minesweper grid. (turns out, only 3 people enjoy minesweeper)
+- [My Cringe Dead Youtube Channel™](https://www.youtube.com/@BirbIrl) - I sunk like 5 thousand hours into brawlhalla when growing up and subjected thousands to my yapping about it. Also i did mods for that game but Live Service™ thanos snapped them away.
 
-Here are some ideas to get you started:
+## Currently working on:
+- TactTile - A UI lirary for Love2D that's slowly turning into much more. It'll come shipped with the next game i make and publish under the GPL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+https://github.com/user-attachments/assets/503029a8-8bc4-4050-8355-eb56f6c45889
