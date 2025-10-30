@@ -9,7 +9,3 @@ I'm **BirbIrl**. I used to yell at videogames - now i make videogames you can ye
 
 ## Currently working on:
 - TactTile - A UI lirary for Love2D that's slowly turning into much more. It'll come shipped with the next game i make and publish under the GPL.
-
-
-
-https://github.com/user-attachments/assets/503029a8-8bc4-4050-8355-eb56f6c45889
