@@ -3,7 +3,7 @@ I'm **BirbIrl**. I used to yell at videogames - now i make videogames you can ye
 
 You can also yell at me directly by sending me an email to birbirl@proton.me
 
-## Things i did that are of noteworthy:
+## Things i did that are noteworthy:
 - [The Perfect Sequence](https://birbirl.itch.io/the-perfect-sequence) - My submission for the 96h 2025 GMTK Game Jam. Stop reading this and just click the link and play it in the browser for a bit. There's a special surprise if you beat it. Might take an hour tho :)
 - [Create's ComputerCraft Integration](https://github.com/Creators-of-Create/Create/pull/7883) - I took the initative and collabed with other players on improving the CC integration for Create, [wrote serial tests](https://github.com/BirbIrl/Create-CC-Integration-Tests) for it and [quadruples the amount of documentation](https://github.com/Creators-of-Create/wiki/pull/4).
 - [VoidSweeper](https://github.com/BirbIrl/VoidSweeper) - A small prototype to see how minesweeper plays on a procedural, forever growing (and decaying) minesweper grid. (turns out, only 3 people enjoy minesweeper)
